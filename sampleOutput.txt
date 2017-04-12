@@ -1,0 +1,4 @@
+Sensor 1 thread system time: 1492034423324
+Sensor 4 thread system time: 1492034425544
+Sensor 7 thread system time: 1492034427539
+Sensor 8 thread system time: 1492034432383
